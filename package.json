@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cordova-plugin-advanced-http": "^3.3.1"
+  }
+}
